@@ -1,7 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
-
-import jdk.tools.jlink.internal.SymLinkResourcePoolEntry;
-
 /**
  * Task1-4: 課題内容
  *
