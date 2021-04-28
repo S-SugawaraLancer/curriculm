@@ -41,13 +41,13 @@ public class Task1_5 {
         *     8 || 8 | 16 | 24 | 32 | 40 | 48 | 56 | 64 | 72 |
         *     9 || 9 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 |
         */
-        for(i=1; i<=9; i++){
+        for(int t=1; t<=9; t++){
           String sum ="";
           for(int j=1; j<=9; j++){
-            int kuku =i*j;
+            int kuku =t*j;
             sum = sum + kuku +"|";
           }
-          System.out.println(i + "||" + sum);
+          System.out.println(t + "||" + sum);
         }
         
  
