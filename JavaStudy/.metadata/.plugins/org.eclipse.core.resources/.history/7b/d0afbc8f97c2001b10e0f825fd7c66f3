@@ -1,0 +1,14 @@
+package chapter1;
+
+public class  {
+
+    public static void main(String[] args) {
+        // HelloJavaクラスのインスタンスを生成して、HelloJavaクラス型の変数hjに保持する
+        HelloJava hj = new HelloJava();
+        
+        //生成したスタンスより、HelloJavaのクラスのprintメソッドを呼び出す
+        hj.print();
+        
+    }
+
+}

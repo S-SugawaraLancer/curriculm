@@ -1,0 +1,7 @@
+#encoding=UTF-8
+#version=1
+net.sf.eclipsecs.checkstyle.source,8.36.1.202101292258,file:/C:/Users/s.sugawara/OneDrive/デスクトップ/pleiades/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.checkstyle.source_8.36.1.202101292258.jar,-1,false
+net.sf.eclipsecs.core.source,8.36.1.202101292258,file:/C:/Users/s.sugawara/OneDrive/デスクトップ/pleiades/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.core.source_8.36.1.202101292258.jar,-1,false
+net.sf.eclipsecs.ui.source,8.36.1.202101292258,file:/C:/Users/s.sugawara/OneDrive/デスクトップ/pleiades/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.ui.source_8.36.1.202101292258.jar,-1,false
+org.thymeleaf.extras.eclipse.contentassist.source,3.0.0.202005310144,file:/C:/Users/s.sugawara/OneDrive/デスクトップ/pleiades/eclipse/dropins/Thymeleaf/eclipse/plugins/org.thymeleaf.extras.eclipse.contentassist.source_3.0.0.202005310144.jar,-1,false
+org.thymeleaf.extras.eclipse.core.source,3.0.0.202005310144,file:/C:/Users/s.sugawara/OneDrive/デスクトップ/pleiades/eclipse/dropins/Thymeleaf/eclipse/plugins/org.thymeleaf.extras.eclipse.core.source_3.0.0.202005310144.jar,-1,false
