@@ -1,0 +1,141 @@
+@media screen and (max-width: 767px) {
+
+  .clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+
+  .content{
+    width: 300px;
+    height: 450px;
+  }
+  
+  .header {
+    width: 300px;
+    height: 100px;
+    background-color: #6a6b6e;
+  }
+  
+  .main {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+  
+  }
+  
+  .left {
+    width: 100px;
+    height: 250px;
+    background-color: #80bfa8;
+    float: left;
+  }
+  
+  .main-content {
+    width: 200px;
+    height: 250px;
+    float: right;
+  }
+  
+  .main-content-top{
+    width: 125px;
+    height: 50px;
+    background-color: #dbd400;
+    float: right;
+  }
+  
+  .main-content-center{
+    width: 125px;
+    height: 100px;
+    background-color: #0093b7;
+    float: right;
+  }
+  
+  .main-content-right{
+    width: 75px;
+    height: 150px;
+    background-color: #ff9e6b;
+    float: right;
+  }
+  
+  .main-content-bottom{
+    width: 200px;
+    height: 100px;
+    background-color: #8c2727;
+    float: right;
+  }
+  
+  .footer {
+    width: 300px;
+    height: 100px;
+    background-color: #d98d30;
+    float: left;
+  }
+}
+
+@media screen and (max-width: 479px) {
+
+  .clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+  
+  .content{
+    width: 150px;
+    height: 450px;
+  }
+  
+  .header {
+    width: 150px;
+    background-color: #141f40;
+  }
+  
+  .main {
+    width: 150px;
+    background-color: red;
+  
+  }
+  
+  .left {
+    width: 150px;
+    height: 100px;
+    background-color: #80bfa8;
+    float: none; /* 要素の浮動化の解除 */
+  }
+  
+  .main-content {
+    width: 150px;
+    float: none; /* 要素の浮動化の解除 */
+  }
+  
+  .main-content-top{
+    width: 150px;
+    background-color: #dbd400;
+    float: none; /* 要素の浮動化の解除 */
+  }
+  
+  .main-content-center{
+    width: 150px;
+    background-color: #0093b7;
+    float: none; /* 要素の浮動化の解除 */
+  }
+  
+  .main-content-right{
+    width: 150px;
+    height: 100px;
+    background-color: #ff9e6b;
+    float: none; /* 要素の浮動化の解除 */
+  }
+
+  .main-content-bottom{
+    width: 150px;
+    background-color: #8c2727;
+  }
+  
+  .footer {
+    width: 150px;
+    background-color: #d98d30;
+    float: left; /* 要素の浮動化の解除 */
+  }
+}
