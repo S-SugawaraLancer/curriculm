@@ -1,0 +1,36 @@
+.clearfix::after {
+content: “”;
+display: block;
+clear: both;
+}
+
+.header-logo {
+	background-color: gray;
+}
+
+.header-style {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+.header-time {
+	padding: 10px;
+	font-size: 10px;
+}
+
+.footer-logo {
+	background-color: gray;
+}
+
+.footer-style {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+.main {
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
